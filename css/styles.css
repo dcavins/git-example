@@ -8,3 +8,9 @@ body {
 li {
 	margin: 0 0 .4em;
 }
+figure{
+	background: rgba( 255, 255, 255, .6 );
+	border-radius: 12px;
+	padding: 10px;
+	display: inline-block;
+}
